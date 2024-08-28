@@ -15,8 +15,6 @@ To view the website locally, clone this repository and open index.html in your p
 Feel free to explore the website and use it as inspiration for your own projects. Contributions and feedback are welcome!
 
 
-Contact
-For any questions or to get in touch, please email me at your-email@example.com or connect with me on LinkedIn.
 
 Feel free to adjust any details to better fit your specific project or personal preferences!
 
